@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountInversions/CountInversions.iml" filepath="$PROJECT_DIR$/CountInversions/CountInversions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySeach/binarySeach.iml" filepath="$PROJECT_DIR$/binarySeach/binarySeach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breadthFirstSearch/breadthFirstSearch.iml" filepath="$PROJECT_DIR$/breadthFirstSearch/breadthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depthFirstSearch/depthFirstSearch.iml" filepath="$PROJECT_DIR$/depthFirstSearch/depthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dijkstrasAlgorithm/dijkstrasAlgorithm.iml" filepath="$PROJECT_DIR$/dijkstrasAlgorithm/dijkstrasAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huffmanCode/huffmanCode.iml" filepath="$PROJECT_DIR$/huffmanCode/huffmanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadanesAlgorithm/kadanesAlgorithm.iml" filepath="$PROJECT_DIR$/kadanesAlgorithm/kadanesAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/karatsuba/karatsuba.iml" filepath="$PROJECT_DIR$/karatsuba/karatsuba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/korasajusAlgorithm/korasajusAlgorithm.iml" filepath="$PROJECT_DIR$/korasajusAlgorithm/korasajusAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primsMST/primsMST.iml" filepath="$PROJECT_DIR$/primsMST/primsMST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/quickSort/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomizedSelection/randomizedSelection.iml" filepath="$PROJECT_DIR$/randomizedSelection/randomizedSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shortestPath/shortestPath.iml" filepath="$PROJECT_DIR$/shortestPath/shortestPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strassensSubcubicMatrixMultiplicationAlgorithm/strassensSubcubicMatrixMultiplicationAlgorithm.iml" filepath="$PROJECT_DIR$/strassensSubcubicMatrixMultiplicationAlgorithm/strassensSubcubicMatrixMultiplicationAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topologicalSortUsingDFS/topologicalSortUsingDFS.iml" filepath="$PROJECT_DIR$/topologicalSortUsingDFS/topologicalSortUsingDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/undirectedConnectivityBFS/undirectedConnectivityBFS.iml" filepath="$PROJECT_DIR$/undirectedConnectivityBFS/undirectedConnectivityBFS.iml" />
+    </modules>
+  </component>
+</project>
